@@ -5,7 +5,7 @@
 ! avatar: #9211e0
 
 $discard
-$boost,site=en.wikipedia.org
-$boost,site=arxiv.org
-$boost,site=semanticscholar.org
-
+site=en.wikipedia.org
+site=arxiv.org
+site=semanticscholar.org
+site=www.semanticscholar.org
