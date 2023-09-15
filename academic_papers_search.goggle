@@ -1,0 +1,11 @@
+! name: Academic Papers Search
+! description: Search only on academic papers repositories.
+! public: true
+! author: Josep M.
+! avatar: #9211e0
+
+$discard
+$boost,site=en.wikipedia.org
+$boost,site=arxiv.org
+$boost,site=semanticscholar.org
+
